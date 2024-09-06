@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Macondo", cursive;
+    font-weight: 400;
+    font-style: normal;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
